@@ -27,3 +27,5 @@ What hope is there in the face of death? If we have known someone who might stan
 -ography: [junkspace](https://www.cavvia.net/junkspace/), [all shuttle launches at once](https://youtu.be/dA_WCfN4yp4), [global hypercolor](https://en.wikipedia.org/wiki/Hypercolor), [Inland Empire](https://youtu.be/TCEpI4L_6SM), [Lascaux](https://www.lascaux.fr/en), [Neviges](https://www.dezeen.com/2014/09/17/brutalist-buildings-pilgrimage-church-neviges-by-gottfried-bohm/), [Black Ships In The Sky](https://genius.com/Current-93-black-ships-in-the-sky-lyrics), [Slow Canceallation of The Future](https://youtu.be/JX-HfNIN-pc).
 
 _"Most of our love is shabby stuff, but there is always a thin line of gold"_ -- Iris Murdoch.
+
+![Purples](./purple.png)
